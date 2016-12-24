@@ -1,0 +1,176 @@
+.homestyle{width: 976px;
+    border: solid 2px;
+margin: 0 auto;
+text-align: center;
+word-spacing: 4px;
+text-align: left;
+border-color: rgb(224, 224, 224);
+
+}
+
+.headerstyle{
+	height: 141px;
+    width: 976px;
+    border: solid 2px;
+    border-color: rgb(224, 224, 224);
+    background-image: url(./images/newtcs.jpg);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.headerstyle1{
+	background-color: black;
+    color: white;
+    margin-top: 104px;
+    height: 37px;
+}
+
+.header1{border-right: solid 1px;
+    border-bottom-color: white;
+    width: 105px;
+    padding: 7px;
+    text-align: center;
+    height: 23px;}
+.header2{       width: 103px;
+    margin-left: 120px;
+    margin-top: -37px;
+    height: 23px;
+    padding: 7px;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    text-align: center;}
+.header3{    border-right: solid 1px;
+    border-bottom-color: white;
+    width: 117px;
+    margin-left: 238px;
+    margin-top: -37px;
+    height: 23px;
+    padding: 7px;
+    text-align: center;}
+.header4{    width: 106px;
+    margin-left: 372px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    height: 23px;}
+.header5{     width: 116px;
+    margin-left: 496px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    height: 23px;}
+
+.header6{    width: 114px;
+    margin-left: 632px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    height: 23px;}
+.header7{width: 184px;
+    margin-left: 766px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;}
+
+.aboutusstyle{
+    background-color: white;
+    width: 946px;
+    border: solid 2px;
+    border-color: rgb(224, 224, 224);
+    margin: 0 auto;
+    margin-top: 22px;
+    height: 264px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 16px;
+
+}
+
+.aboutstyle{
+	width: 412px;
+    border: solid 2px;
+    margin-left: 1px;
+    margin-top: 22px;
+    height: 598px;
+    background-color: #f1f1f1;
+    padding-left: 30px;
+    padding-top: 30px;
+    border-color: rgb(224, 224, 224);
+}
+
+
+.imagestyle{
+	background-image: url(./images/image.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    width: 526px;
+    border: solid 0px;
+    margin-left: 454px;
+    margin-top: -633px;
+    height: 630px;
+    border-color: rgb(224, 224, 224);
+}
+
+.footerstyle{
+	background-color: rgb(26, 140, 206);
+	width: 975px;
+    border: solid 2px;
+    margin: 0 auto;
+    margin-top: 16px;
+    height: 368px;
+    border-color: rgb(224, 224, 224);
+}
+
+.footerstyle1
+{width: 222px;
+    border: solid 0px;
+    margin-top: 17px;
+    font-size: 13px;
+    margin-left: 10px;
+}
+.footerstyle2
+{height: 273px;
+    border: solid 0px;
+    width: 299px;
+    margin-top: -242px;
+    margin-left: 263px;
+    font-size: 13px;
+}
+.footerstyle3
+{border: solid 0px;
+    font-size: 13px;
+    width: 178px;
+    margin-left: 585px;
+    margin-top: -274px;
+}
+.footerstyle4
+{    font-size: 13px;
+    border: solid 0px;
+    width: 180px;
+    margin-left: 774px;
+    margin-top: -275px;
+}
+ .footerstyle5
+ {border: solid 0px;
+    margin-top: 154px;
+    margin-left: 8px;
+    font-size: 14px;
+ }
+ .footerstyleimage
+ {
+    margin-top: -335px;
+    border: solid 0px;
+    width: 10px;
+    margin-left: 756px;
+ }
+ .footerstyleimage1
+ {
+    margin-top: 162px;
+    margin-left: 3px;
+ }

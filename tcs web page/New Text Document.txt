@@ -1,0 +1,11 @@
+headerstyle{border-color: rgb(224, 224, 224);}
+
+
+Twitter icon   Facebook icon   Linkedin icon   GooglePlus icon   Youtube Icon 	 RSS icon
+
+<i class="fa fa-twitter-square" aria-hidden="true"></i>
+<i class="fa fa-facebook-official" aria-hidden="true"></i>
+<i class="fa fa-linkedin-square" aria-hidden="true"></i>
+<i class="fa fa-google-plus" aria-hidden="true"></i>
+<i class="fa fa-youtube" aria-hidden="true"></i>
+<i class="fa fa-rss-square" aria-hidden="true"></i>
